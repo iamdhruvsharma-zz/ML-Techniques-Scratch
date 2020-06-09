@@ -1,1 +1,1 @@
-# ML-Techniques-Scratch
+# ML Techniques from Scratch using Python!
